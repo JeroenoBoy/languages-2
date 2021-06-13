@@ -1,0 +1,20 @@
+welcome:
+- '&c&b&m-----------------------------------------------------'
+- '&c&lWELKOM OP TNTWARS.ORG'
+- '&c&b&m-----------------------------------------------------'
+- '&eWinkel: tntwars.org/store'
+- '&eDiscord: tntwars.org/discord'
+- '&eWebsite: tntwars.org'
+- '&eStem: tntwars.org/vote'
+- '&akans op 1,000-13,000 munten door dagelijks te stemmen!'
+- '&aEr is ook een kans voor de donor rank!'
+- '&c&b&m-----------------------------------------------------'
+join: '&7[&a+&7] %prefix%%player%'
+quit: '&7[&c-&7] %prefix%%player%'
+spawn:
+  teleport: '&aGeteleporteerd naar spawn!'
+scoreboard:
+  online: '&a&lOnline Spelers'
+  coins: '&6&lMunten'
+  server: '&d&lServer'
+  rank: '&b&lRank'
