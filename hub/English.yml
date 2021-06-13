@@ -1,0 +1,20 @@
+welcome:
+- '&c&b&m-----------------------------------------------------'
+- '&c&lWELCOME TO TNTWARS.ORG'
+- '&c&b&m-----------------------------------------------------'
+- '&eStore: tntwars.org/store'
+- '&eDiscord: tntwars.org/discord'
+- '&eWebsite: tntwars.org'
+- '&eVote: tntwars.org/vote'
+- '&a1,000-13,000 coins possible from voting every day!'
+- '&aAlso a chance of free donor ranks!'
+- '&c&b&m-----------------------------------------------------'
+join: '&7[&a+&7] %prefix%%player%'
+quit: '&7[&c-&7] %prefix%%player%'
+spawn:
+  teleport: '&aTeleported back to spawn!'
+scoreboard:
+  online: '&a&lOnline Players'
+  coins: '&6&lCoins'
+  server: '&d&lServer'
+  rank: '&b&lRank'
